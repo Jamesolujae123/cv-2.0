@@ -134,4 +134,11 @@ body {
   .codeImg {
     width: 400px;
   }
+
+  .bottom-cloud {
+  left: 250px;
+  position: absolute;
+  bottom: 250px;
+}
+  
 }
