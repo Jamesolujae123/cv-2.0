@@ -127,7 +127,7 @@ body {
   text-decoration: none;
 }
 
-@media and screen (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .mountain {
     width: 400px;
   }
